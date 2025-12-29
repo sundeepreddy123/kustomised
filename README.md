@@ -2,6 +2,7 @@ User / Browser
       |
       |  http://<NODE-IP>:32100
       ▼
+
 ┌──────────────────────────┐
 │ Kubernetes Node          │
 │  NodePort Service        │
