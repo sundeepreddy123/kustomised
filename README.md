@@ -1,5 +1,3 @@
-🧩 Overview
-
 This repository contains Kubernetes manifests to deploy a containerized microservice application using:
 
 Kubernetes (K8s) for orchestration
